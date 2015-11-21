@@ -21,13 +21,10 @@ When you're done, `ctrl+d` to exit and `vagrant suspend` or `vagrant halt` to sh
 
 ### Next Time Usage
 If you've already done the above
-
-`vagrant up`
-
-`vagrant ssh`
-
-`workon mcrates`
-
-`cd /vagrant/mcratesv1_project`
-
-`python manage.py runserver 0.0.0.0:8000`
+```
+vagrant up
+vagrant ssh
+workon mcrates
+cd /vagrant/mcratesv1_project
+python manage.py runserver 0.0.0.0:8000
+```
