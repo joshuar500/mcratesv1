@@ -21,7 +21,7 @@ When you're done, `ctrl+d` to exit and `vagrant suspend` or `vagrant halt` to sh
 
 ### Next Time Usage
 If you've already done the above
-```
+```cd d
 vagrant up
 vagrant ssh
 workon mcrates
